@@ -1,5 +1,6 @@
 # scheduler.py
 # Disk Scheduling Algorithms Module
+# Bugfix branch: fixed scheduler logic comment
 
 class DiskScheduler:
     def __init__(self, requests, head, max_track):
