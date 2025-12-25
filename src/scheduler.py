@@ -1,7 +1,7 @@
 # scheduler.py
 # Disk Scheduling Algorithms Module
-# Bugfix branch: fixed scheduler logic comment
-# Main branch: scheduler baseline comment
+# Final resolved version: scheduler stabilized after experiment merge
+
 
 class DiskScheduler:
     def __init__(self, requests, head, max_track):
