@@ -1,114 +1,132 @@
-\# Git Bash \& GitHub Hands-On Project
+## **# 🧠 Disk Scheduling Simulator-(Version Control Systems – Git Bash \& GitHub Project)**
 
+## 
 
+## **## 📌 Project Description**
 
-\## Project Title
+## 
 
-Disk Scheduling Simulator using Git Bash and GitHub
+## **This project is a Git-centric university assignment developed as part of the Version Control Systems\*\* course.**  
 
+## **The main objective of the project is to demonstrate \*\*practical usage of Git and GitHub\*\* through a structured and disciplined version control workflow.**
 
+## 
 
-\## Course
+## **A Python-based Disk Scheduling Simulator was developed as the application layer to clearly showcase:**
 
-Version Control Systems
+## 
 
+## **- Incremental development using commits**  
 
+## **- Feature isolation using multiple branches**  
 
-\## Introduction
+## **- Branching and merging workflows**  
 
-This project demonstrates practical usage of Git Bash and GitHub for version control.
+## **- Intentional merge conflict creation and resolution**  
 
-A Python-based Disk Scheduling Simulator was used to perform Git operations such as
+## **- Proper project documentation using Markdown**  
 
-repository initialization, branching, merging, conflict resolution, and remote synchronization.
+## 
 
+## **The primary focus of evaluation is version control practices, not the complexity of the application logic.**
 
+## 
 
-\## Project Structure
+## **---**
 
-\- src/ : Python source files
+## 
 
-\- data/ : Data files (if any)
+## **## 🛠️ Technologies Used**
 
-\- docs/ : Documentation
+## 
 
-\- screenshots/ : Git command and result screenshots
+## **- Git Bash – Local version control operations**  
 
+## **- GitHub – Remote repository and branch management**  
 
+## **- Python – Disk scheduling application implementation**  
 
-\## Technologies Used
+## **- Markdown – Project documentation (README.md)**  
 
-\- Python
+## 
 
-\- Git Bash
+## **---**
 
-\- GitHub
+## 
 
+## **## 🌿 Git Workflow Used**
 
+## 
 
-\## Git Operations Performed
+## **The project follows a branch-based Git workflow:**
 
-\- git clone
+## 
 
-\- git status
+## **- The main branch contains stable and final project code**  
 
-\- git add
+## **- Separate branches were created for feature development, testing, bug fixing, and experimentation**  
 
-\- git commit
+## **- Each branch was worked on independently and later merged into main**  
 
-\- git branch
+## **- All changes were committed with meaningful messages before pushing to GitHub**  
 
-\- git checkout
+## 
 
-\- git merge
+## **This workflow ensures clean code history, better tracking of changes, and controlled integration.**
 
-\- git push
+## 
 
+## **## 🔀 Branches Created**
 
+## 
 
-\## Branches Created
+## **The following branches were created and used in the project:**
 
-\- main
+## 
 
-\- feature
+## **- feature – For feature-related changes**  
 
-\- test
+## **- test – For testing-related updates**  
 
-\- bugfix
+## **- bugfix – For fixing issues**  
 
-\- experiment
+## **- experiment – For experimental changes**  
 
+## 
 
+## **Each branch served a specific purpose and helped in isolating changes during development.**
 
-\## Merge Conflict Handling
+## 
 
-A merge conflict was intentionally created between branches.
+## 
 
-The conflict was resolved manually by editing the conflicted file and committing the resolution.
+## 
 
+## **## 🧾 Git Operations Performed**
 
+## 
 
-\## Challenges Faced
+## **The following Git operations were performed throughout the project:**
 
-\- Understanding branch behavior
+## 
 
-\- Handling merge conflicts
+## **- Repository cloning using git clone**  
 
-\- Resolving network issues during push
+## **- Checking repository status using git status** 
 
+## **- Staging changes using git add** 
 
+## **- Creating meaningful commits using git commit**  
 
-\## Conclusion
+## **- Creating and switching branches using git branch and git checkout**  
 
-This project helped in understanding real-world Git workflows, including branching,
+## **- Merging branches using git merge**  
 
-merging, conflict resolution, and collaboration using GitHub.
+## **- Demonstrating and resolving a real merge conflict manually**  
 
+## **- Pushing code to GitHub using git push**  
 
 
-\## GitHub Repository
-
-https://github.com/abhirambirakati/DevopsProject
 
 
 
