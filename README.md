@@ -99,3 +99,16 @@ The successful commit confirms proper conflict resolution.
 
 ![Conflict Resolved](screenshots/conflict%20solved.png)
 
+### 📊 Git Commit History Graph
+This screenshot shows the complete Git commit history using  
+`git log --graph --oneline --all`.
+
+It visually represents multiple branches, commits, and merge operations,
+demonstrating proper Git branching and version control workflow.
+
+![Git Commit History](screenshots/git%20log.png)
+
+## 🏁 Conclusion
+
+This project helped in understanding Git and GitHub through practical usage of commits, branches, merges, and conflict resolution.  
+It provided real-world exposure to version control workflows and proper project documentation.
