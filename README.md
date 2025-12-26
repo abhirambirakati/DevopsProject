@@ -1,4 +1,4 @@
-## **# 🧠 Disk Scheduling Simulator-(Version Control Systems – Git Bash \& GitHub Project)**
+## **# 🧠 Disk Scheduling Simulator (Version Control Systems – Git Bash \& GitHub Project)**
 
 ## 
 
@@ -6,13 +6,13 @@
 
 ## 
 
-## **This project is a Git-centric university assignment developed as part of the Version Control Systems\*\* course.**  
+## **This project is a Git-centric university assignment developed as part of the \*\*Version Control Systems\*\* course.**  
 
 ## **The main objective of the project is to demonstrate \*\*practical usage of Git and GitHub\*\* through a structured and disciplined version control workflow.**
 
 ## 
 
-## **A Python-based Disk Scheduling Simulator was developed as the application layer to clearly showcase:**
+## **A Python-based \*\*Disk Scheduling Simulator\*\* was developed as the application layer to clearly showcase:**
 
 ## 
 
@@ -28,11 +28,7 @@
 
 ## 
 
-## **The primary focus of evaluation is version control practices, not the complexity of the application logic.**
-
-## 
-
-## **---**
+## **The primary focus of evaluation is \*\*version control practices\*\*, not the complexity of the application logic.**
 
 ## 
 
@@ -50,23 +46,19 @@
 
 ## 
 
-## **---**
-
-## 
-
 ## **## 🌿 Git Workflow Used**
 
 ## 
 
-## **The project follows a branch-based Git workflow:**
+## **The project follows a \*\*branch-based Git workflow\*\*:**
 
 ## 
 
-## **- The main branch contains stable and final project code**  
+## **- The `main` branch contains stable and final project code**  
 
 ## **- Separate branches were created for feature development, testing, bug fixing, and experimentation**  
 
-## **- Each branch was worked on independently and later merged into main**  
+## **- Each branch was worked on independently and later merged into `main`**  
 
 ## **- All changes were committed with meaningful messages before pushing to GitHub**  
 
@@ -84,21 +76,17 @@
 
 ## 
 
-## **- feature – For feature-related changes**  
+## **- `feature` – For feature-related changes**  
 
-## **- test – For testing-related updates**  
+## **- `test` – For testing-related updates**  
 
-## **- bugfix – For fixing issues**  
+## **- `bugfix` – For fixing issues**  
 
-## **- experiment – For experimental changes**  
+## **- `experiment` – For experimental changes**  
 
 ## 
 
 ## **Each branch served a specific purpose and helped in isolating changes during development.**
-
-## 
-
-## 
 
 ## 
 
@@ -110,23 +98,21 @@
 
 ## 
 
-## **- Repository cloning using git clone**  
+## **- Repository cloning using `git clone`**  
 
-## **- Checking repository status using git status** 
+## **- Checking repository status using `git status`**  
 
-## **- Staging changes using git add** 
+## **- Staging changes using `git add`**  
 
-## **- Creating meaningful commits using git commit**  
+## **- Creating meaningful commits using `git commit`**  
 
-## **- Creating and switching branches using git branch and git checkout**  
+## **- Creating and switching branches using `git branch` and `git checkout`**  
 
-## **- Merging branches using git merge**  
+## **- Merging branches using `git merge`**  
 
 ## **- Demonstrating and resolving a real merge conflict manually**  
 
-## **- Pushing code to GitHub using git push**  
-
-
+## **- Pushing code to GitHub using `git push`**  
 
 
 
