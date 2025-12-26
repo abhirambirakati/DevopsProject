@@ -60,39 +60,42 @@ The following Git operations were performed throughout the project:
 ## 📸 Project Execution Screenshots
 
 ### 🧩 Creating Python Files
-![Creating Python Files](screenshots/creating%20files.png)
-
 This screenshot shows the creation of Python source files inside the `src` directory.  
 It represents the initial setup and modular structure of the project.
+
+![Creating Python Files](screenshots/creating%20files.png)
 
 ---
 
 ### 🧾 Initial Commit
-![Initial Commit](screenshots/intial%20commit.png)
-
 This screenshot shows the first commit after adding the project files to Git.  
 The initial commit establishes the base version of the project.
+
+![Initial Commit](screenshots/intial%20commit.png)
 
 ---
 
 ### 🌿 Branch Creation
-![Branch Creation](screenshots/branch%20creating.png)
-
 This screenshot shows the creation of multiple branches such as feature, test, bugfix, and experiment.  
 Branches help in isolating development and testing activities.
+
+![Branch Creation](screenshots/branch%20creating.png)
+
 
 ---
 
 ### 🔥 Merge Conflict Occurred
-![Merge Conflict](screenshots/smerge_conflict.png)
-
 This screenshot shows a merge conflict while merging the `experiment` branch into `main`.  
 The conflict occurred because the same file was modified in both branches.
+
+![Merge Conflict](screenshots/smerge_conflict.png)
+
 
 ---
 
 ### ✅ Merge Conflict Resolved
-![Conflict Resolved](screenshots/conflict%20solved.png)
-
 This screenshot shows the conflict after it was manually resolved and committed.  
 The successful commit confirms proper conflict resolution.
+
+![Conflict Resolved](screenshots/conflict%20solved.png)
+
